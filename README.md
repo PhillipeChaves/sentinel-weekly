@@ -1,6 +1,3 @@
-# sentinel-weekly
-PDF archive of Sentinel Weekly, the weekly Microsoft Sentinel briefing
-
 # Sentinel Weekly
 
 Your weekly Microsoft Sentinel briefing. Every Thursday: what shipped in and around
