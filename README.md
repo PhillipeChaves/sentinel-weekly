@@ -10,5 +10,6 @@ Microsoft Sentinel and Defender, what it means in a real SOC, and one KQL query 
 | Edition | Week | PDF |
 |---------|------|-----|
 | No. 1 | July 24 - 30, 2026 | [sentinel-weekly-edition-01.pdf](editions/sentinel-weekly-edition-01.pdf) |
+| No. 2 | July 31 - August 5, 2026 | [sentinel-weekly-edition-02.pdf](editions/sentinel-weekly-edition-02.pdf) |
 
 Curated by Phillipe Chaves de Lima. New every Thursday.
