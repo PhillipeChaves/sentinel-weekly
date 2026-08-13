@@ -32,3 +32,13 @@ https://learn.microsoft.com/en-us/defender-for-identity/investigate-domain
 https://learn.microsoft.com/en-us/defender-office-365/defender-for-office-365-whats-new
 https://learn.microsoft.com/en-us/azure/sentinel/data-connectors-reference#sentinel-data-connectors
 https://learn.microsoft.com/en-us/azure/sentinel/sap/sap-agent-migrate
+
+## Edition 03 (August 6 to 12, 2026)
+https://learn.microsoft.com/en-us/azure/sentinel/automation/generate-playbook
+https://techcommunity.microsoft.com/blog/microsoftsentinelblog/ai-powered-playbook-generator-now-available-to-more-customers/4544385
+https://learn.microsoft.com/en-us/azure/sentinel/whats-new#new-data-sources-for-ueba-behaviors-and-anomaly-detection-preview
+https://techcommunity.microsoft.com/blog/microsoftsentinelblog/public-preview-nested-api-support-comes-to-microsoft-sentinel-ccf/4537026
+https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-detection-protection
+https://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-real-time-protection
+https://techcommunity.microsoft.com/blog/microsoft-entra-blog/whats-new-in-microsoft-entra-august-2026/4545172
+https://learn.microsoft.com/en-us/azure/sentinel/feature-availability
