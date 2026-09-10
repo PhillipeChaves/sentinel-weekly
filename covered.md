@@ -73,4 +73,19 @@ https://github.com/Azure/Azure-Sentinel/blob/master/Solutions/SAP/Agentless/READ
 
 
 ## Edition 06 (2026-08-27 to 2026-09-02)
-https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/ https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/ https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/stop-identity-attacks-before-they-start-with-microsoft-ispm-recommendations/4549692 https://techcommunity.microsoft.com/blog/microsoft-entra-blog/instant-revocation-of-service-principal-bearer-tokens-with-cae/4548192 https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-in-microsoft-sentinel-august-2026/4551405 https://techcommunity.microsoft.com/blog/microsoft-entra-blog/what%E2%80%99s-new-in-microsoft-entra-september-2026/4545179 https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/
+https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/ 
+https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/ 
+https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/stop-identity-attacks-before-they-start-with-microsoft-ispm-recommendations/4549692 
+https://techcommunity.microsoft.com/blog/microsoft-entra-blog/instant-revocation-of-service-principal-bearer-tokens-with-cae/4548192 
+https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-in-microsoft-sentinel-august-2026/4551405 
+https://techcommunity.microsoft.com/blog/microsoft-entra-blog/what%E2%80%99s-new-in-microsoft-entra-september-2026/4545179 
+https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/
+
+
+## Edition 07 (2026-09-03 to 2026-09-09)
+https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/
+https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/
+https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/
+https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/
+https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/
+https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-graphapiauditevents-table
